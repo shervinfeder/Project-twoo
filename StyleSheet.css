@@ -1,0 +1,184 @@
+.background{
+  background: white;
+}
+
+.all{
+  background: white;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 20px;
+
+
+
+
+}
+
+
+.title{
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 40px;
+
+}
+
+.intro{
+  margin: 50px;
+  padding:5px;
+  border: 4px solid blue;
+  border-style: dotted;
+  padding: 25px;
+  font-size: 24px;
+  text-align: left;
+  line-height: 35px;
+
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: flex;
+
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.intro-text{
+  object-fit: contain;
+
+  font-size: 40px;
+  line-height: 30px;
+  text-align: left;
+  justify-content: left;
+
+}
+
+.resize {
+  max-height:auto;
+  flex: 1;
+    justify-content: center;
+  flex-shrink: 3;
+
+}
+
+.teaser{
+font-size: 23px;
+text-decoration: underline;
+text-align: center;
+
+
+}
+
+.flex-container {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0;
+ padding: 50px;
+ margin: 50px;
+ list-style: none;
+ border: 2px solid blue;
+ display: flex;
+ object-fit: contain;
+ align-items: center;
+}
+.subtitle{
+text-align: center;
+  text-decoration:none;
+}
+
+.resize {
+  align-items: center;
+  max-width: 60%;
+  justify-content: center;
+  margin-left: 20%;
+  margin-right: auto;
+
+}
+
+.flex-child1 {
+
+  flex-basis: 35%;
+  flex-shrink: 3;
+
+
+  object-fit: contain;
+  flex: 1;
+  padding: 5px;
+  border: 5px black;
+
+  margin: 10px;
+  text-align: center;
+
+}
+
+.flex-child2 {
+  object-fit: contain;
+  text-align: center;
+  flex: 2;
+  padding: 5px;
+  margin: 5px;
+
+
+  line-height: 35px;
+  color: black;
+  font-weight:bolder;
+  font-size: 20px;
+
+  text-align: center;
+
+
+}
+
+.graph {
+  border: 4px solid black;
+  border-style: dotted;
+  padding: 10px;
+  margin: 15px;
+}
+
+.text {
+
+}
+
+.header {
+  color: #cccc00;
+}
+
+.bottom{
+
+  font-size: 16px;
+  margin-left: 10px;
+
+}
+
+.source{
+  text-decoration: underline;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.me{
+  font-size: 20px;
+    margin-left: 10px;
+}
+
+#box1 {
+
+
+
+
+}
+
+#box3 {
+
+
+}
+
+#box5 {
+
+
+
+}
